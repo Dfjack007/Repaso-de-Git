@@ -1,5 +1,8 @@
 body    {
     text-align: center;
     font-family: "Arial";
-    color: deeppink;
+    color: green;
+    border-top: 10px;
+    border-color:  cornflowerblue;
+
 }
